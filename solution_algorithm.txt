@@ -1,0 +1,12 @@
+Start by looking at the top row.
+Click the square on the row UNDER any lit (green) square.
+Continue doing this from top to bottom.
+You should now only have lit (green) squares in the bottom row.
+Now look left-to-right on the bottom row for the FIRST lit (green) square.
+Depending on the position of the FIRST lit (green) square in the bottom row,
+    you will click the appropriate square(s) in the top row and repeat the process.
+
+Bottom Row:
+First lit (green) light is in position 1: click squares 4 & 5 in top row.
+First lit (green) light is in position 2: click squares 2 & 5 in top row.
+First lit (green) light is in position 3: click square 4 in top row.
